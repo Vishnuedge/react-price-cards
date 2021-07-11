@@ -1,8 +1,8 @@
 import React from 'react';
 import './style.css';
-import LeftCard from '../Components/LeftCard.js';
-import MiddleCard from '../Components/MiddleCard.js';
-import RightCard from '../Components/RightCard.js';
+import LeftCard from './Components/LeftCard.js';
+import MiddleCard from './Components/MiddleCard.js';
+import RightCard from './Components/RightCard.js';
 
 export default function App() {
   return (
